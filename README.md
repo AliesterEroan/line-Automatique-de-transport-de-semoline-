@@ -28,38 +28,22 @@ This is a **Projet de Fin d'Études (PFE)** - Final Year Project focusing on the
 
 ## 📦 Project Files
 
-The complete TIA Portal project is split into two parts due to file size limitations:
+The complete TIA Portal V16 project is included in this repository:
 
-- **GMS.part1.rar** - First part of the project archive
-- **GMS.part2.rar** - Second part of the project archive
+- **GMS.ap16** - Main TIA Portal project file
+- **AdditionalFiles/** - Project resources and libraries
+- **IM/** - Information Model
+- **System/** - System configuration
+- **UserFiles/** - User-specific files
+- **Vci/** - Virtual Communication Interface
+- **XRef/** - Cross-reference data
 
 ## 🚀 Getting Started
 
-### 1. Download and Extract Files
-
-```bash
-# Ensure both parts are downloaded
-# Extract using WinRAR or similar tool
-# Both parts must be in the same directory
-```
-
-### 2. Reassemble the Project
-
-**Using WinRAR:**
-- Right-click on `GMS.part1.rar`
-- Select "Extract Here"
-- WinRAR will automatically detect and use part2
-
-**Using Command Line:**
-```bash
-# If you have rar command line tool
-rar x GMS.part1.rar
-```
-
-### 3. Open in TIA Portal
+### 1. Open in TIA Portal
 
 1. Launch **Siemens TIA Portal V16**
-2. Open the extracted project file
+2. Open the project file `GMS.ap16`
 3. Review hardware configuration
 4. Compile and validate the project
 
@@ -67,7 +51,6 @@ rar x GMS.part1.rar
 
 ### Software
 - **Siemens TIA Portal V16** (or compatible version)
-- **WinRAR** or similar archive extraction tool
 - **PLCSIM Advanced** (for simulation, optional)
 
 ### Hardware
@@ -149,7 +132,6 @@ This project includes comprehensive documentation covering:
 ## ⚠️ Important Notes
 
 - Project requires TIA Portal V16 or compatible version
-- Both archive parts must be downloaded and extracted together
 - Hardware configuration may need adjustment for your specific setup
 - Safety systems must be properly implemented and tested
 - Professional supervision required for industrial deployment
