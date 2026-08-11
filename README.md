@@ -3,7 +3,7 @@
 > Industrial automation project for semoline transport line using Siemens TIA Portal V16 🌾
 
 ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-V16-blue?style=for-the-badge)
-![PLC](https://img.shields.io/badge/PLC-S7-1200%2F1500-green?style=for-the-badge)
+![PLC](https://img.shields.io/badge/PLC-S7--1200%2FS7--1500-green?style=for-the-badge)
 ![PFE](https://img.shields.io/badge/Project-PFE-orange?style=for-the-badge)
 
 ---
