@@ -173,7 +173,7 @@ For questions about this project:
 
 ## 📜 License
 
-This project is provided for educational and reference purposes.
+Proprietary license — personal, non-commercial use only. See the LICENSE file for details.
 
 ## 🙏 Credits
 
