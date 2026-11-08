@@ -188,6 +188,10 @@ This project is provided for educational and reference purposes.
 
 This PFE project represents the culmination of engineering studies, demonstrating practical application of industrial automation concepts in real-world food processing scenarios.
 
-**Made with ❤️ by [AliesterEroan](https://github.com/AliesterEroan)**
+*Built with ❤️ by AliesterEroan*
 
 ⭐ If you find this project useful for reference, consider giving it a star!
+
+---
+
+*Built with ❤️ by AliesterEroan*
